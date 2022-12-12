@@ -7,6 +7,7 @@ import SignupScreen from "./pages/SignupScreen";
 import SearchScreen from "./pages/SearchScreen";
 import ProfileScreen from "./pages/ProfileScreen";
 function App() {
+  // test
   // useEffect(() => {
   //   console.log("useEffect fetching data");
   //   async function reloadData() {
