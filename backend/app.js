@@ -1,3 +1,4 @@
+//Overall, this looks like a well-designed and implemented full stack web app using the MERN stack. Great work!
 import express from "express";
 import path, { dirname } from "path";
 import cookieParser from "cookie-parser";
