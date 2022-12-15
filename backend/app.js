@@ -1,3 +1,5 @@
+//The use of a remote mongoDB Atlas server for the backend database is a good choice, as it allows for scalability and flexibility in managing the data. 
+//The Express server also seems to be set up properly, with clear routes defined in the routes folder.
 import express from "express";
 import path, { dirname } from "path";
 import cookieParser from "cookie-parser";
