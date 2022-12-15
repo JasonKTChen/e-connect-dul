@@ -8,7 +8,7 @@ Link to Home Page: https://e-connect.onrender.com/
 
 
 Design Document: https://docs.google.com/document/d/1vhc_Klf_8pT1yA9qHOuYvd1ZASYGsN5h7oQ_FzdR9kw/edit#
-
+// Love your design, the website looks well structure and clear for user to user! 
 
 ## Background
 
