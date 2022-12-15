@@ -1,5 +1,5 @@
 // Kuan Tsa Chen
-
+//You can also improve acessability by make card board have some shadow/glowing/ effect while using tab keyboard to choose the card.
 import { MongoClient } from "mongodb";
 import dotenv from "dotenv";
 dotenv.config({ path: "../config.env" });
