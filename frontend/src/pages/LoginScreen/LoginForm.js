@@ -1,4 +1,7 @@
 // Chun-Wei Tseng
+//One potential improvement to consider would be to add some form of user authentication or authorization to the app,
+//so that users can securely log in and only edit or manage their own business cards and collections. 
+//This could be implemented using a library like Passport.js, which provides various authentication strategies for Express.
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./login.css";
