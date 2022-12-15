@@ -1,4 +1,4 @@
-// import { useEffect } from "react";
+//Overall, this full stack web app looks well-designed and implemented, utilizing the MERN stack to provide a seamless experience for users.
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomeScreen from "./pages/HomeScreen";
